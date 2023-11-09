@@ -1,0 +1,5 @@
+Please read that before runing the code!
+
+You need to install for now the modules "qrcode, more-itertools, pillow, brainfuckery" until i figured out how i can make that automated and easier for the enduser.
+
+LG Chaosminecraft
